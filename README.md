@@ -1,5 +1,7 @@
 # Discord Clone 🚀
 
+## Modern Tech Stack: Powered by HTML5, Tailwind , and JavaScript.
+
 ## Features 🌟
 
 ### Responsive Design: Adapts flawlessly to devices of all sizes—mobile, tablet, and desktop—for a seamless user experience.
