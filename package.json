@@ -4,8 +4,8 @@
   "description": "Tailwind",
   "main": "index.js",
   "scripts": {
-    "start": "vite",
-    "build": "vite build"
+    "start": "node init && vite",
+    "build": "node init && vite build"
   },
   "author": "",
   "license": "ISC",
