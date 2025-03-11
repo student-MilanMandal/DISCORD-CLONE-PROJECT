@@ -16,6 +16,6 @@
 
 ## git clone: (https://github.com/student-MilanMandal/DISCORD-CLONE-PROJECT) Open index.html
 
-# [Open](https://discord-clone-milan.netlify.app/) DISCORD-APP👈
+# [Open](https://milan-discord-clone.netlify.app/) DISCORD-APP👈
 
 ## 👆👆For Mobile and Desktop view
